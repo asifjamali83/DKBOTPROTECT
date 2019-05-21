@@ -29,7 +29,7 @@ lineProfile = line.getProfile()
 Bots = [lineMID]
 lineSettings = line.getSettings()
 
-admin =["u39f6835814970d554809a89e620f8281","ua49645de5bf35bec5fe7428089801737"]
+admin =["u7e99c5b3e4f01c95c104d0993fc41998","u7e99c5b3e4f01c95c104d0993fc41998"]
 
 oepoll = OEPoll(line)
 
